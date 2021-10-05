@@ -24,7 +24,7 @@ main {
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-image: url('../multimedia/principal-img.jpg');
+	background-image: url('principal-img.jpg');
 }
 h1 {
 	text-align: center;
